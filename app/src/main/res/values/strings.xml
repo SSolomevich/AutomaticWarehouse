@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AutomaticWarehouse</string>
+
+    <string name="countRobot">Выберите количество роботов</string>
+
+    <string name="radioButton_2">2</string>
+    <string name="radioButton_3">3</string>
+    <string name="radioButton_4">4</string>
+    <string name="radioButton_5">5</string>
+
+    <string name="ok">OK</string>
+
+    <string name="Simulate">Simulate</string>
+
+</resources>

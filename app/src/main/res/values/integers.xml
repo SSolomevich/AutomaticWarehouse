@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="field_0_y">600</integer>
+    <integer name="field_0_x">100</integer>
+
+    <integer name="field_max_y">1800</integer>
+    <integer name="field_max_x">900</integer>
+
+    <integer name="field_start1_y">800</integer>
+    <integer name="field_start2_y">900</integer>
+
+    <integer name="field_end1_x">200</integer>
+    <integer name="field_end2_x">300</integer>
+
+
+    <integer name="field_endx">550</integer>
+    <integer name="field_endy">230</integer>
+
+    <integer name="field_startx">550</integer>
+    <integer name="field_starty">230</integer>
+
+    <integer name="field_start_start">1800</integer>
+    <integer name="field_start_end">950</integer>
+
+    <integer name="field_end_start">500</integer>
+    <integer name="field_end_end">200</integer>
+
+    <integer name="buttom_simulate_0_y">50</integer>
+    <integer name="buttom_simulate_0_x">850</integer>
+    <integer name="buttom_simulate_max_y">500</integer>
+    <integer name="buttom_simulate_max_x">1000</integer>
+
+    <integer name="simulate_y">950</integer>
+    <integer name="simulate_x">100</integer>
+
+    <integer-array name="boxes">
+
+        <item>700</item>
+        <item>400</item>
+
+        <item>800</item>
+        <item>500</item>
+
+        <item>900</item>
+        <item>600</item>
+
+        <item>1000</item>
+        <item>400</item>
+
+        <item>1100</item>
+        <item>600</item>
+
+        <item>1200</item>
+        <item>500</item>
+
+        <item>1300</item>
+        <item>600</item>
+
+        <item>1500</item>
+        <item>400</item>
+
+        <item>1600</item>
+        <item>600</item>
+
+    </integer-array>
+</resources>
